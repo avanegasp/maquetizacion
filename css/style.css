@@ -1,0 +1,130 @@
+*{
+	box-sizing: border-box;
+}
+
+/* CUDA */
+
+.container{
+	display: inline;
+}
+
+header nav{
+	float: right;
+	margin-top: 30px;
+}
+
+header nav a{
+	color:white;
+	text-decoration: none;
+	font-weight: bold;
+	margin-left: 10px;
+	padding: 30px 30px;
+}
+
+#presentation{
+	background-color: #CC1FD7;
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 10%;
+}
+
+#presentation h1{
+	font-family: 'Lobster', cursive;
+	font-size: 73px;
+	text-align: left;
+	color:white; 
+}
+
+#presentation p{
+	font-family: 'Anton', sans-serif;
+	font-size: 30px;
+	text-align: center;
+	color:white; 
+}
+
+#presentation .btn {
+	font-family: 'Anton', sans-serif;
+	font-size: 30px;
+	text-align: center;
+	color:white; 
+	margin-top:20px;
+	padding: 20px;
+}
+
+/* Final CUDA */
+
+/*Comienzo Servicios */
+
+#acerca {
+	background-color: #05D49B;
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.box{
+	display: inline-block;
+	text-align: center;
+	width: 33%;
+	padding: 10px;
+}
+
+.box img {
+	width: 55%;
+
+}
+
+h2{
+	padding: 20px;
+	color:white;
+	text-align: center;
+	font-family: 'Anton', sans-serif;
+	font-size: 50px;
+}
+
+#acerca p {
+	color:white;
+}
+
+#acerca h3{
+	color:white;
+}
+/*Final Servicios */
+
+/* Comienzo equipo de trabajo*/
+
+#trabajos {
+	background-color: #C9D3D0;
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.team{
+	display: inline-block;
+	text-align: center;
+	width: 33%;
+	padding: 10px;
+}
+
+.team img {
+	width: 85%;
+}
+
+h2{
+	padding: 20px;
+	color:white;
+	text-align: center;
+	font-family: 'Anton', sans-serif;
+	font-size: 50px;
+}
+
+#acerca p {
+	color:white;
+}
+
+#acerca h3{
+	color:white;
+}
+	
